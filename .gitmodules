@@ -1,0 +1,12 @@
+[submodule "doc"]
+	path = doc
+	url = git@github.com:polonair/dialtime-builder.wiki.git
+[submodule "gate"]
+	path = gate
+	url = git@github.com:polonair/dialtime-gate-builder.git
+[submodule "server"]
+	path = server
+	url = git@github.com:polonair/dialtime-server-builder.git
+[submodule "web"]
+	path = web
+	url = git@github.com:polonair/dialtime-web-builder.git
